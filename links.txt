@@ -1,3 +1,0 @@
-https://stackoverflow.com/questions/51801907/how-to-create-react-search-filter-for-search-multiple-object-key-values
-
-https://stackoverflow.com/questions/42363198/how-to-add-close-icon-in-material-ui-dialog-header-top-right-corner
